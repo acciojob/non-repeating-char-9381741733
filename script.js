@@ -1,5 +1,8 @@
 function firstNonRepeatedChar(str) {
  // Write your code here
+	firstNonRepeatedChar('aabbcdd')	
+firstNonRepeatedChar('aabbcc')
+	
 	    const charCount = {};
 
     // Iterate through the string and count occurrences of each character
